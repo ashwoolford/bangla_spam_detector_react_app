@@ -42,8 +42,8 @@ function App() {
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1>Bangla Language Spam Detector</h1>
-        <p>Detect spam messages written in the Bangla language with ease. Enter the text below and check for spam.</p>
+        <h1>Bangla Spam Email Detector</h1>
+        <p>Detect spam emails written in the Bangla language with ease. Enter the text below and check for spam.</p>
       </header>
 
       <div className="input-container">
